@@ -1,0 +1,130 @@
+[
+    {
+      "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+      "name": "Organic Pinkerton Avocado",
+      "price": 160,
+      "img": "https://i.ibb.co/TkhkpzD/Organic-Pinkerton-Avocado-each.webp",
+      "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4c2f-a74d-a77b362d6eed",
+        "name": "Organic Broccoli",
+        "price": 220,
+        "img": "https://i.ibb.co/P4wCYfn/Organic-Broccoli-10oz.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4e2f-a74d-a77b362d6efd",
+        "name": "Pineapple",
+        "price": 210,
+        "img": "https://i.ibb.co/5xcwsS8/Pineapple-1-5lb.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-b74d-a77b362d6egd",
+        "name": "Aloe Vera Leaf",
+        "price": 160,
+        "img": "https://i.ibb.co/mqjhcGH/Aloe-Vera-Leaf-each.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-d74d-a77b362d6eld",
+        "name": "Strawberries",
+        "price": 400,
+        "img": "https://i.ibb.co/b62GMsP/Strawberries-Package-2-25-oz.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-274d-a77b362d6ekd",
+        "name": "Bok Choy Cabbage",
+        "price": 179,
+        "img": "https://i.ibb.co/HgkrL0R/Bok-Choy-Cabbage-per-lb.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-874d-a77b362d6emf",
+        "name": "Ahold Acorn Squash",
+        "price": 125,
+        "img": "https://i.ibb.co/4P5tBbn/Ahold-Acorn-Squash-1ct.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-ssds4d-a77b362d6erd",
+        "name": "Organic Purple Cauliflower",
+        "price": 69,
+        "img": "https://i.ibb.co/pQN78cs/Organic-Purple-Cauliflower-1lb.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-ssd-a77b362d6ejd",
+        "name": "Cauliflower",
+        "price": 85,
+        "img": "https://i.ibb.co/9gwksKY/Cauliflower-1-35lb.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-53453-a77b362d6ejd",
+        "name": "Strawberries",
+        "price": 330,
+        "img": "https://i.ibb.co/gT00N6K/Strawberries-9-25oz.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-ghgf-a77b362d6ejd",
+        "name": "Parsley",
+        "price": 154,
+        "img": "https://i.ibb.co/nkq19XQ/Parsley-each.webp",
+        "quantity": 0
+      },
+
+      {
+        "id": "124e13b9-2d54-4b2f-2345-a77b362d6ejd",
+        "name": "Radicchio",
+        "price": 163,
+        "img": "https://i.ibb.co/nQH8hGp/Radicchio-12ct.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-2d54-4b2f-7896-a77b362d6ejd",
+        "name": "Lettuce",
+        "price": 45,
+        "img": "https://i.ibb.co/4R6sCgV/Lettuce-1lb.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-3256-4b2f-a74d-a77b362d6ejd",
+        "name": "Calabaza Squash",
+        "price": 88,
+        "img": "https://i.ibb.co/FVwGvrB/Calabaza-Squash-Package-each.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-7898-4b2f-a74d-a77b362d6ejd",
+        "name": "Blackberries",
+        "price": 130,
+        "img": "https://i.ibb.co/bLPQCTj/Blackberries-1-25-qt.webp",
+        "quantity": 0
+      },
+
+      {
+        "id": "124e13b9-1474-4b2f-a74d-a77b362d6ejd",
+        "name": "Rainbow Peppers",
+        "price": 25,
+        "img": "https://i.ibb.co/1qV6GHm/Rainbow-Peppers-4ct.jpg",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-were-4b2f-a74d-a77b362d6ejd",
+        "name": "Clementine",
+        "price": 65,
+        "img": "https://i.ibb.co/b2Qb48G/Clementine-5ct.webp",
+        "quantity": 0
+      },
+      {
+        "id": "124e13b9-9re7-4b2f-a74d-a77b362d6ejd",
+        "name": "Rainbow Chard",
+        "price": 75,
+        "img": "https://i.ibb.co/QjMPZpc/Rainbow-Chard-Package-per-lb.webp",
+        "quantity": 0
+      }
+  ]
